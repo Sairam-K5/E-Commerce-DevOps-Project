@@ -14,7 +14,7 @@ The architecture includes containerized services, Kubernetes orchestration, Terr
 This design reflects a realistic, production-grade cloud-native environment used in modern DevOps teams.
 
 ## Architecture Diagram
-![Architecture Diagram](./images/architecture diagram.png)
+![Architecture Diagram](./images/architecture-diagram.png)
 
 ## Landing Page
 ![Landing Page](./images/landing-page.png)
