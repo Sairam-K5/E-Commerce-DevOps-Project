@@ -4,7 +4,8 @@ This project is based on the **OpenTelemetry Demo** repository.
 Original repository:
 https://github.com/open-telemetry/opentelemetry-demo
 License: **Apache License 2.0**
-
+Cloned repository:
+https://github.com/iam-veeramalla/ultimate-devops-project-demo.git
 This version has been modified and used for learning and experimentation purposes.
 
 ---
